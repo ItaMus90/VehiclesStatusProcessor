@@ -1,0 +1,14 @@
+{
+  "odometer": {
+    "value": 1,
+    "unit": "mile"
+  },
+  "fuel_status": {
+    "value": 10,
+    "unit": "liter"
+  },
+  "fuel_capacity": {
+    "value": 40,
+    "unit": "liter"
+  }
+}

@@ -1,0 +1,32 @@
+{
+ "vehicles": [
+   {
+     "vehicle_id": "vehicle1",
+     "provider_id": "astonMartin"
+   },
+   {
+     "vehicle_id": "vehicle2",
+     "provider_id": "ferrari"
+   },
+   {
+     "vehicle_id": "vehicle3",
+     "provider_id": "hyundai"
+   },
+   {
+     "vehicle_id": "mx5",
+     "provider_id": "mazda"
+   },
+   {
+     "vehicle_id": "mx5",
+     "provider_id": "mazda"
+   },
+   {
+     "vehicle_id": "vehicle5",
+     "provider_id": "lamborghini"
+   },
+   {
+     "vehicle_id": "vehicle6",
+     "provider_id": "astonMartin"
+   }
+ ]
+}

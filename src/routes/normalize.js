@@ -1,0 +1,8 @@
+const express = require('express');
+const router = express.Router();
+
+module.exports = app => {
+    const vehicleCtrl = require('../controllers/vehicleCtrl')(app);
+    router.get('/data/',  vehicleCtrl.normalize);
+    return router;
+}

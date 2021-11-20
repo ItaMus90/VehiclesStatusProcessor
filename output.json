@@ -1,0 +1,1 @@
+[{"vehicle_id":{"value":"vehicle1","unit":null},"odometer":{"value":"kilometer","unit":1.6},"fuel_level":{"value":"percentage","unit":0.25}},{"vehicle_id":{"value":"mx5","unit":null},"odometer":{"value":"kilometer","unit":1.6},"fuel_level":{"value":"percentage","unit":0.25}}]
